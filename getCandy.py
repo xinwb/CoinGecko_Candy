@@ -11,9 +11,9 @@ import platform
 
 # List of tokens
 TOKENS = [
-    "52894d31200fcfd79ce2efe68919da64",
-    "6215269b094249c56747a7ed7050d7c7",
-    "f50fe0c29a5ece318119849ee3b1c3ee"
+    "_session_id_sample001",
+    "_session_id_sample001",
+    "_session_id_sample001"
 ]
 
 def get_news_details(auth_token):
